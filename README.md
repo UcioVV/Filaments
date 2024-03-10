@@ -6,3 +6,5 @@ This is a **compilation of filament profiles** I have used for 3D printing. The 
 
 ![UltiMaker Cura Preferences](https://i.imgur.com/cS8domc.png)
 
+# Specifications
+In all cases I have tried to find the recommended values for each filament directly on the manufacturer's website.
